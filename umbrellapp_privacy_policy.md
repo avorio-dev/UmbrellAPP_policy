@@ -12,9 +12,9 @@
 
   
 
-This Privacy Notice for \_\_\_\_\_\_\_\_\_\_ ('**we**', '**us**', or '**our**'), describes how and why we might access, collect, store, use, and/or share ('**process**') your personal information when you use our services ( '**Services**'), including when you:
+This Privacy Notice for \_\_\_\_\_\_\_\_\_\_ ('**we**', '**us**', or '**our**'), describes how and why we might access, collect, store, use, and/or share ('**process**') your personal information when you use our services ('**Services**'), including when you:
 
-*   Download and use our mobile application (UmbrellAPP) , or any other application of ours that links to this Privacy Notice
+*   Download and use our mobile application (UmbrellAPP), or any other application of ours that links to this Privacy Notice
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
@@ -60,7 +60,7 @@ This Privacy Notice for \_\_\_\_\_\_\_\_\_\_ ('**we**', '**us**', or '**our**'),
 
   
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/notify/8f9a117c-1bc4-4fb4-b6c9-f840601cc06b) , or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/notify/8f9a117c-1bc4-4fb4-b6c9-f840601cc06b), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
   
 
@@ -100,9 +100,7 @@ Want to learn more about what we do with any information we collect? [Review th
 
 [13\. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
 
-[
-
-](#DNT)
+[](#DNT)
 
 [](#DNT)[14\. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
 
@@ -241,7 +239,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
   
 
-**Vendors, Consultants, and Other Third-Party Service Providers.** We may share your data with third-party vendors, service providers, contractors, or agents ( '**third parties**' ) who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organisation apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct.
+**Vendors, Consultants, and Other Third-Party Service Providers.** We may share your data with third-party vendors, service providers, contractors, or agents ('**third parties**') who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organisation apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct.
 
   
 
@@ -257,7 +255,7 @@ We also may need to share your personal information in the following situations:
 
 *   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
-*   **When we use Google Maps Platform APIs.** We may share your information with certain Google Maps Platform APIs (e.g. Google Maps API, Places API). Google Maps uses GPS, Wi-Fi, and cell towers to estimate your location. GPS is accurate to about 20 meters, while Wi-Fi and cell towers help improve accuracy when GPS signals are weak, like indoors. This data helps Google Maps provide directions, but it is not always perfectly precise. We obtain and store on your device ( 'cache' ) your location . You may revoke your consent anytime by contacting us at the contact details provided at the end of this document.
+*   **When we use Google Maps Platform APIs.** We may share your information with certain Google Maps Platform APIs (e.g. Google Maps API, Places API). Google Maps uses GPS, Wi-Fi, and cell towers to estimate your location. GPS is accurate to about 20 meters, while Wi-Fi and cell towers help improve accuracy when GPS signals are weak, like indoors. This data helps Google Maps provide directions, but it is not always perfectly precise. We obtain and store on your device ('cache') your location. You may revoke your consent anytime by contacting us at the contact details provided at the end of this document.
 
   
 
@@ -281,7 +279,7 @@ The Services may link to third-party websites, online services, or mobile applic
 
   
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services , prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
+We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
 
   
 
@@ -289,7 +287,7 @@ We also permit third parties and service providers to use online tracking techno
 
   
 
-Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice .
+Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
   
 
@@ -309,7 +307,7 @@ We may share your information with Google Analytics to track and analyse the use
 
   
 
-As part of our Services, we offer products, features, or tools powered by artificial intelligence, machine learning, or similar technologies (collectively, ' AI Products ' ). These tools are designed to enhance your experience and provide you with innovative solutions. The terms in this Privacy Notice govern your use of the AI Products within our Services.
+As part of our Services, we offer products, features, or tools powered by artificial intelligence, machine learning, or similar technologies (collectively, 'AI Products'). These tools are designed to enhance your experience and provide you with innovative solutions. The terms in this Privacy Notice govern your use of the AI Products within our Services.
 
   
 
@@ -317,7 +315,7 @@ As part of our Services, we offer products, features, or tools powered by artifi
 
   
 
-We provide the AI Products through third-party service providers ( ' AI Service Providers ' ), including OpenAI . As outlined in this Privacy Notice, your input, output, and personal information will be shared with and processed by these AI Service Providers to enable your use of our AI Products for purposes outlined in ' [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#legalbases) ' You must not use the AI Products in any way that violates the terms or policies of any AI Service Provider.
+We provide the AI Products through third-party service providers ('AI Service Providers'), including OpenAI. As outlined in this Privacy Notice, your input, output, and personal information will be shared with and processed by these AI Service Providers to enable your use of our AI Products for purposes outlined in '[WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#legalbases)' You must not use the AI Products in any way that violates the terms or policies of any AI Service Provider.
 
   
 
@@ -347,7 +345,7 @@ All personal information processed using our AI Products is handled in line with
 
   
 
-Our servers are located in the United States . If you are accessing our Services from outside the United States , please be aware that your information may be transferred to, stored by, and processed by us in our facilities and in the facilities of the third parties with whom we may share your personal information (see ' [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare) ' above), in the United States,  and other countries.
+Our servers are located in the United States. If you are accessing our Services from outside the United States, please be aware that your information may be transferred to, stored by, and processed by us in our facilities and in the facilities of the third parties with whom we may share your personal information (see '[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)' above), in the United States, and other countries.
 
   
 
@@ -359,7 +357,7 @@ European Commission's Standard Contractual Clauses:
 
   
 
-We have implemented measures to protect your personal information, including by using the European Commission's Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations.  Our Standard Contractual Clauses can be provided upon request.  We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
+We have implemented measures to protect your personal information, including by using the European Commission's Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Our Standard Contractual Clauses can be provided upon request. We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
 
   
 
@@ -395,11 +393,11 @@ We have implemented appropriate and reasonable technical and organisational secu
 
   
 
-**_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age ._
+**_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
   
 
-We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at avorio.dev@gmail.com .
+We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at avorio.dev@gmail.com.
 
   
 
@@ -407,11 +405,11 @@ We do not knowingly collect, solicit data from, or market to children under 18 y
 
   
 
-**_In Short:_**  _In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Switzerland , you have rights that allow you greater access to and control over your personal information.  You may review, change, or terminate your account at any time, depending on your country, province, or state of residence._
+**_In Short:_** _In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Switzerland, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence._
 
   
 
-In some regions (like the EEA, UK, and Switzerland ), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section ' [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact) ' below.
+In some regions (like the EEA, UK, and Switzerland), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)' below.
 
   
 
@@ -425,7 +423,7 @@ If you are located in Switzerland, you may contact the [Federal Data Protection 
 
   
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section ' [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact) ' below .
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section '[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)' below.
 
   
 
@@ -437,7 +435,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
   
 
-Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ( 'DNT' ) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognising and implementing DNT signals has been finalised . As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ('DNT') feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
 
   
 
@@ -457,7 +455,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 
   
 
-If you have questions or comments about this notice, you may email us at avorio.dev@gmail.com or  contact us by post at:
+If you have questions or comments about this notice, you may email us at avorio.dev@gmail.com or contact us by post at:
 
   
 
@@ -473,6 +471,6 @@ If you have questions or comments about this notice, you may email us at avorio.
 
   
 
-Based on the applicable laws of your country , you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a  [data subject access request](https://app.termly.io/notify/8f9a117c-1bc4-4fb4-b6c9-f840601cc06b) .
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/8f9a117c-1bc4-4fb4-b6c9-f840601cc06b).
 
-ul { list-style-type: square; } ul>li>ul { list-style-type: circle; } ul>li>ul>li>ul { list-style-type: square; } ol li { font-family: Arial; }
+ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
